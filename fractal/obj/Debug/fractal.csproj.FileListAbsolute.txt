@@ -1,0 +1,10 @@
+D:\vsFract\fractal\fractal\bin\Debug\fractal.exe.config
+D:\vsFract\fractal\fractal\bin\Debug\fractal.exe
+D:\vsFract\fractal\fractal\bin\Debug\fractal.pdb
+D:\vsFract\fractal\fractal\obj\Debug\fractal.csproj.AssemblyReference.cache
+D:\vsFract\fractal\fractal\obj\Debug\fractal.csproj.SuggestedBindingRedirects.cache
+D:\vsFract\fractal\fractal\obj\Debug\fractal.Properties.Resources.resources
+D:\vsFract\fractal\fractal\obj\Debug\fractal.csproj.GenerateResource.cache
+D:\vsFract\fractal\fractal\obj\Debug\fractal.csproj.CoreCompileInputs.cache
+D:\vsFract\fractal\fractal\obj\Debug\fractal.exe
+D:\vsFract\fractal\fractal\obj\Debug\fractal.pdb
